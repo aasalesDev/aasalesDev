@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **iOS development with Swift in Storyboard and SwiftUI**
 
-- 📫 You can reach me at **andersonsales.mg@gmail.com**
+- 📫 You can reach me at **aasalesdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
