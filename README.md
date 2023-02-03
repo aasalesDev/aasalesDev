@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anderson Sales</h1>
-<h2> I am an electrical engineer with over 15 years of experience in the aviation industry, now I am bringing such an experience to the iOS development world.</h2>
+<h2> I am an electrical engineer and an enthusiast of information technology, computer science, software development, and programming.</h2>
 
 - 🌱 I’m currently learning **iOS development with Swift in Storyboard and SwiftUI**
 
