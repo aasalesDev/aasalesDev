@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anderson Sales</h1>
 <h2> I am an electrical engineer and an enthusiast of information technology, computer science, software development, and programming.</h2>
 
-- 🌱 I’m currently learning **iOS development with Swift in Storyboard and SwiftUI**
+- 🌱 I’m currently learning **iOS development with Swift in UIKit and SwiftUI**
 
 - 📫 You can reach me at **aasalesdev@gmail.com**
 
